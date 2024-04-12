@@ -31,7 +31,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # Read the color image
-input_image_path = 'my photo.jpg'
+input_image_path = 'Photo.jpg'
 color_image = cv2.imread(input_image_path)
 
 # Convert the color image to grayscale
